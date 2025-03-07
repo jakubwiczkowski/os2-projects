@@ -1,0 +1,3 @@
+[submodule "dining-philosophers"]
+	path = dining-philosophers
+	url = git@github.com:jakubwiczkowski/dining-philosophers.git
